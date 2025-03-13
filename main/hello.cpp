@@ -5,6 +5,7 @@ using namespace std;
 int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
-  cout << "I have successfully built and run this  \n";
+  cout << "Hello, git\n";
+  cout << "I am Nida Fathima(pes2ug22cs353) and have successfully built and run this  \n";
   return 0;
 }
